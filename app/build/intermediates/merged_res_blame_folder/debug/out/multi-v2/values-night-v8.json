@@ -1,0 +1,79 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.full.gallery.top.secure.password.photos.app-mergeDebugResources-28:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "F:\\AndroidCodes\\GITHUB CODES\\FullGallery2\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "102",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "841"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "313",
+                        "endLines": "18",
+                        "endColumns": "12",
+                        "endOffsets": "917"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Shahzaib\\.gradle\\caches\\transforms-3\\797a8dccb6dacd55dcaaf0947d6b9acd\\transformed\\jetified-popups-1.0.9\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,114,164,215",
+                        "endColumns": "58,49,50,52",
+                        "endOffsets": "109,159,210,263"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "100,159,209,260",
+                        "endColumns": "58,49,50,52",
+                        "endOffsets": "154,204,255,308"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Shahzaib\\.gradle\\caches\\transforms-3\\f053ca72a4906620f9d7f529c412475e\\transformed\\appcompat-1.4.2\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "19,20,21,22,23,24,25,50",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "922,992,1076,1160,1256,1358,1460,4208",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "987,1071,1155,1251,1353,1455,1549,4292"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Shahzaib\\.gradle\\caches\\transforms-3\\bfec8dfcaf6c34e166a516bbd7a3f400\\transformed\\material-1.6.1\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,130,241,330,431,538,645,744,847,935,1059,1161,1263,1379,1481,1595,1723,1839,1961,2097,2217,2351,2471,2583,2709,2826,2950,3080,3202,3340,3474,3590",
+                        "endColumns": "74,110,88,100,106,106,98,102,87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,116,123,129,121,137,133,115,119",
+                        "endOffsets": "125,236,325,426,533,640,739,842,930,1054,1156,1258,1374,1476,1590,1718,1834,1956,2092,2212,2346,2466,2578,2704,2821,2945,3075,3197,3335,3469,3585,3705"
+                    },
+                    "to": {
+                        "startLines": "26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,51,52,53,54,55,56,57,58",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1554,1629,1740,1829,1930,2037,2144,2243,2346,2434,2558,2660,2762,2878,2980,3094,3222,3338,3460,3596,3716,3850,3970,4082,4297,4414,4538,4668,4790,4928,5062,5178",
+                        "endColumns": "74,110,88,100,106,106,98,102,87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,116,123,129,121,137,133,115,119",
+                        "endOffsets": "1624,1735,1824,1925,2032,2139,2238,2341,2429,2553,2655,2757,2873,2975,3089,3217,3333,3455,3591,3711,3845,3965,4077,4203,4409,4533,4663,4785,4923,5057,5173,5293"
+                    }
+                }
+            ]
+        }
+    ]
+}

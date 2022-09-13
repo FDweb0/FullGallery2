@@ -1,0 +1,136 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.full.gallery.top.secure.password.photos"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->F:\AndroidCodes\GITHUB CODES\FullGallery2\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->F:\AndroidCodes\GITHUB CODES\FullGallery2\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission
+11-->F:\AndroidCodes\GITHUB CODES\FullGallery2\app\src\main\AndroidManifest.xml:6:5-8:35
+12        android:name="android.permission.READ_EXTERNAL_STORAGE"
+12-->F:\AndroidCodes\GITHUB CODES\FullGallery2\app\src\main\AndroidManifest.xml:7:9-64
+13        android:required="true" />
+13-->F:\AndroidCodes\GITHUB CODES\FullGallery2\app\src\main\AndroidManifest.xml:8:9-32
+14    <uses-permission
+14-->F:\AndroidCodes\GITHUB CODES\FullGallery2\app\src\main\AndroidManifest.xml:9:5-11:35
+15        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+15-->F:\AndroidCodes\GITHUB CODES\FullGallery2\app\src\main\AndroidManifest.xml:10:9-65
+16        android:required="true" />
+16-->F:\AndroidCodes\GITHUB CODES\FullGallery2\app\src\main\AndroidManifest.xml:11:9-32
+17    <uses-permission android:name="com.android.vending.BILLING" />
+17-->[com.android.billingclient:billing-ktx:5.0.0] C:\Users\Shahzaib\.gradle\caches\transforms-3\47929a91b17bc503049df5db0d7eaf9b\transformed\jetified-billing-ktx-5.0.0\AndroidManifest.xml:9:5-67
+17-->[com.android.billingclient:billing-ktx:5.0.0] C:\Users\Shahzaib\.gradle\caches\transforms-3\47929a91b17bc503049df5db0d7eaf9b\transformed\jetified-billing-ktx-5.0.0\AndroidManifest.xml:9:22-64
+18
+19    <application
+19-->F:\AndroidCodes\GITHUB CODES\FullGallery2\app\src\main\AndroidManifest.xml:12:5-44:19
+20        android:allowBackup="true"
+20-->F:\AndroidCodes\GITHUB CODES\FullGallery2\app\src\main\AndroidManifest.xml:13:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.7.0] C:\Users\Shahzaib\.gradle\caches\transforms-3\0c734a8f9451ded3159b05d46fc9a23a\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+22        android:dataExtractionRules="@xml/data_extraction_rules"
+22-->F:\AndroidCodes\GITHUB CODES\FullGallery2\app\src\main\AndroidManifest.xml:14:9-65
+23        android:debuggable="true"
+24        android:fullBackupContent="@xml/backup_rules"
+24-->F:\AndroidCodes\GITHUB CODES\FullGallery2\app\src\main\AndroidManifest.xml:15:9-54
+25        android:hardwareAccelerated="true"
+25-->F:\AndroidCodes\GITHUB CODES\FullGallery2\app\src\main\AndroidManifest.xml:16:9-43
+26        android:icon="@mipmap/ic_launcher"
+26-->F:\AndroidCodes\GITHUB CODES\FullGallery2\app\src\main\AndroidManifest.xml:17:9-43
+27        android:label="@string/app_name"
+27-->F:\AndroidCodes\GITHUB CODES\FullGallery2\app\src\main\AndroidManifest.xml:18:9-41
+28        android:largeHeap="true"
+28-->F:\AndroidCodes\GITHUB CODES\FullGallery2\app\src\main\AndroidManifest.xml:19:9-33
+29        android:requestLegacyExternalStorage="true"
+29-->F:\AndroidCodes\GITHUB CODES\FullGallery2\app\src\main\AndroidManifest.xml:20:9-52
+30        android:roundIcon="@mipmap/ic_launcher_round"
+30-->F:\AndroidCodes\GITHUB CODES\FullGallery2\app\src\main\AndroidManifest.xml:21:9-54
+31        android:supportsRtl="true"
+31-->F:\AndroidCodes\GITHUB CODES\FullGallery2\app\src\main\AndroidManifest.xml:22:9-35
+32        android:testOnly="true"
+33        android:theme="@style/Theme.AndroidFullGallery"
+33-->F:\AndroidCodes\GITHUB CODES\FullGallery2\app\src\main\AndroidManifest.xml:23:9-56
+34        android:usesCleartextTraffic="true" >
+34-->F:\AndroidCodes\GITHUB CODES\FullGallery2\app\src\main\AndroidManifest.xml:24:9-44
+35        <activity
+35-->F:\AndroidCodes\GITHUB CODES\FullGallery2\app\src\main\AndroidManifest.xml:26:9-30:57
+36            android:name="com.full.gallery.top.secure.password.photos.Settings"
+36-->F:\AndroidCodes\GITHUB CODES\FullGallery2\app\src\main\AndroidManifest.xml:27:13-37
+37            android:exported="false"
+37-->F:\AndroidCodes\GITHUB CODES\FullGallery2\app\src\main\AndroidManifest.xml:28:13-37
+38            android:label="Settings"
+38-->F:\AndroidCodes\GITHUB CODES\FullGallery2\app\src\main\AndroidManifest.xml:29:13-37
+39            android:parentActivityName="com.full.gallery.top.secure.password.photos.MainActivity" />
+39-->F:\AndroidCodes\GITHUB CODES\FullGallery2\app\src\main\AndroidManifest.xml:30:13-55
+40        <activity
+40-->F:\AndroidCodes\GITHUB CODES\FullGallery2\app\src\main\AndroidManifest.xml:31:9-33:52
+41            android:name="com.full.gallery.top.secure.password.photos.ImageDisplay"
+41-->F:\AndroidCodes\GITHUB CODES\FullGallery2\app\src\main\AndroidManifest.xml:32:13-41
+42            android:screenOrientation="portrait" />
+42-->F:\AndroidCodes\GITHUB CODES\FullGallery2\app\src\main\AndroidManifest.xml:33:13-49
+43        <activity
+43-->F:\AndroidCodes\GITHUB CODES\FullGallery2\app\src\main\AndroidManifest.xml:34:9-43:20
+44            android:name="com.full.gallery.top.secure.password.photos.MainActivity"
+44-->F:\AndroidCodes\GITHUB CODES\FullGallery2\app\src\main\AndroidManifest.xml:35:13-41
+45            android:exported="true"
+45-->F:\AndroidCodes\GITHUB CODES\FullGallery2\app\src\main\AndroidManifest.xml:36:13-36
+46            android:label="@string/app_name" >
+46-->F:\AndroidCodes\GITHUB CODES\FullGallery2\app\src\main\AndroidManifest.xml:37:13-45
+47            <intent-filter>
+47-->F:\AndroidCodes\GITHUB CODES\FullGallery2\app\src\main\AndroidManifest.xml:38:13-42:29
+48                <action android:name="android.intent.action.MAIN" />
+48-->F:\AndroidCodes\GITHUB CODES\FullGallery2\app\src\main\AndroidManifest.xml:39:17-69
+48-->F:\AndroidCodes\GITHUB CODES\FullGallery2\app\src\main\AndroidManifest.xml:39:25-66
+49
+50                <category android:name="android.intent.category.LAUNCHER" />
+50-->F:\AndroidCodes\GITHUB CODES\FullGallery2\app\src\main\AndroidManifest.xml:41:17-77
+50-->F:\AndroidCodes\GITHUB CODES\FullGallery2\app\src\main\AndroidManifest.xml:41:27-74
+51            </intent-filter>
+52        </activity>
+53
+54        <meta-data
+54-->[com.android.billingclient:billing:5.0.0] C:\Users\Shahzaib\.gradle\caches\transforms-3\2acae78d27a7bc96bdc6ab91e8682b11\transformed\jetified-billing-5.0.0\AndroidManifest.xml:13:9-15:37
+55            android:name="com.google.android.play.billingclient.version"
+55-->[com.android.billingclient:billing:5.0.0] C:\Users\Shahzaib\.gradle\caches\transforms-3\2acae78d27a7bc96bdc6ab91e8682b11\transformed\jetified-billing-5.0.0\AndroidManifest.xml:14:13-73
+56            android:value="5.0.0" />
+56-->[com.android.billingclient:billing:5.0.0] C:\Users\Shahzaib\.gradle\caches\transforms-3\2acae78d27a7bc96bdc6ab91e8682b11\transformed\jetified-billing-5.0.0\AndroidManifest.xml:15:13-34
+57
+58        <activity
+58-->[com.android.billingclient:billing:5.0.0] C:\Users\Shahzaib\.gradle\caches\transforms-3\2acae78d27a7bc96bdc6ab91e8682b11\transformed\jetified-billing-5.0.0\AndroidManifest.xml:17:9-21:75
+59            android:name="com.android.billingclient.api.ProxyBillingActivity"
+59-->[com.android.billingclient:billing:5.0.0] C:\Users\Shahzaib\.gradle\caches\transforms-3\2acae78d27a7bc96bdc6ab91e8682b11\transformed\jetified-billing-5.0.0\AndroidManifest.xml:18:13-78
+60            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+60-->[com.android.billingclient:billing:5.0.0] C:\Users\Shahzaib\.gradle\caches\transforms-3\2acae78d27a7bc96bdc6ab91e8682b11\transformed\jetified-billing-5.0.0\AndroidManifest.xml:19:13-96
+61            android:exported="false"
+61-->[com.android.billingclient:billing:5.0.0] C:\Users\Shahzaib\.gradle\caches\transforms-3\2acae78d27a7bc96bdc6ab91e8682b11\transformed\jetified-billing-5.0.0\AndroidManifest.xml:20:13-37
+62            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+62-->[com.android.billingclient:billing:5.0.0] C:\Users\Shahzaib\.gradle\caches\transforms-3\2acae78d27a7bc96bdc6ab91e8682b11\transformed\jetified-billing-5.0.0\AndroidManifest.xml:21:13-72
+63
+64        <provider
+64-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Shahzaib\.gradle\caches\transforms-3\73850b32b2c7ce32b12b91c16b2382c2\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+65            android:name="androidx.startup.InitializationProvider"
+65-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Shahzaib\.gradle\caches\transforms-3\73850b32b2c7ce32b12b91c16b2382c2\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+66            android:authorities="com.full.gallery.top.secure.password.photos.androidx-startup"
+66-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Shahzaib\.gradle\caches\transforms-3\73850b32b2c7ce32b12b91c16b2382c2\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+67            android:exported="false" >
+67-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Shahzaib\.gradle\caches\transforms-3\73850b32b2c7ce32b12b91c16b2382c2\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+68            <meta-data
+68-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Shahzaib\.gradle\caches\transforms-3\73850b32b2c7ce32b12b91c16b2382c2\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+69                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+69-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Shahzaib\.gradle\caches\transforms-3\73850b32b2c7ce32b12b91c16b2382c2\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+70                android:value="androidx.startup" />
+70-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Shahzaib\.gradle\caches\transforms-3\73850b32b2c7ce32b12b91c16b2382c2\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+71            <meta-data
+71-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Shahzaib\.gradle\caches\transforms-3\280b8c662ae12c28e2c58a98b88e76a9\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+72                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+72-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Shahzaib\.gradle\caches\transforms-3\280b8c662ae12c28e2c58a98b88e76a9\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+73                android:value="androidx.startup" />
+73-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Shahzaib\.gradle\caches\transforms-3\280b8c662ae12c28e2c58a98b88e76a9\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+74        </provider>
+75    </application>
+76
+77</manifest>

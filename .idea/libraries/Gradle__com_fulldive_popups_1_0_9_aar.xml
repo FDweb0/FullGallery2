@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.fulldive:popups:1.0.9@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/797a8dccb6dacd55dcaaf0947d6b9acd/transformed/jetified-popups-1.0.9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/797a8dccb6dacd55dcaaf0947d6b9acd/transformed/jetified-popups-1.0.9/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/797a8dccb6dacd55dcaaf0947d6b9acd/transformed/jetified-popups-1.0.9/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/drawable-xxxhdpi_ic_video_file.png.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/drawable-xxxhdpi/ic_video_file.png"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/xml_data_extraction_rules.xml.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/drawable_thumb_drawable.xml.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/drawable/thumb_drawable.xml"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/layout_activity_settings.xml.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/xml_backup_rules.xml.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/drawable-mdpi_ic_action_menu.png.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/drawable-mdpi/ic_action_menu.png"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/drawable-xhdpi_ic_action_menu.png.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/drawable-xhdpi/ic_action_menu.png"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/layout_indicator_holder.xml.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/layout/indicator_holder.xml"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/drawable_gallery.jpg.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/drawable/gallery.jpg"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/layout-land_activity_main.xml.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/layout-land/activity_main.xml"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/drawable_cat.png.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/drawable/cat.png"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/drawable_line.xml.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/drawable/line.xml"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/layout_picture_folder_item.xml.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/layout/picture_folder_item.xml"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/drawable-xxhdpi_ic_action_menu.png.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/drawable-xxhdpi/ic_action_menu.png"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/drawable_ic_baseline_settings_24.xml.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/drawable/ic_baseline_settings_24.xml"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/drawable-xxhdpi_ic_video_file.png.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/drawable-xxhdpi/ic_video_file.png"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/layout_pic_holder_item.xml.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/layout/pic_holder_item.xml"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/layout_activity_main.xml.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/layout_picture_browser_pager.xml.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/layout/picture_browser_pager.xml"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/drawable-hdpi_ic_video_file.png.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/drawable-hdpi/ic_video_file.png"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/layout_activity_image_display.xml.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/layout/activity_image_display.xml"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/drawable_line_drawable.xml.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/drawable/line_drawable.xml"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/anim_zoom_image.xml.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/anim/zoom_image.xml"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/drawable_ic_baseline_arrow_forward_ios_24.xml.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/drawable/ic_baseline_arrow_forward_ios_24.xml"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/drawable-xhdpi_ic_video_file.png.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/drawable-xhdpi/ic_video_file.png"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/drawable_thumb.xml.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/drawable/thumb.xml"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/menu_menu_main.xml.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/layout_picture_browser.xml.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/layout/picture_browser.xml"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-pngs-25:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/drawable-mdpi_ic_video_file.png.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/drawable-mdpi/ic_video_file.png"
+    },
+    {
+        "merged": "com.full.gallery.top.secure.password.photos.app-merged_res-30:/drawable-hdpi_ic_action_menu.png.flat",
+        "source": "com.full.gallery.top.secure.password.photos.app-main-32:/drawable-hdpi/ic_action_menu.png"
+    }
+]
